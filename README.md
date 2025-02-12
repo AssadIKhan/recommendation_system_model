@@ -25,9 +25,8 @@ A collaborative filtering-based recommendation system built with TensorFlow/Kera
 ### Project Structure
 
 ```
-recommendation_system_model/
-├── data/                   # MovieLens dataset
-│   └── rating.csv          
+recommendation_system_model/              
+├── rating.csv           # MovieLens dataset
 ├── recommend.py            # Recommendation functions
 ├── LICENSE
 └── README.md
